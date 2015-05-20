@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <!-- status bar color -->
+        <item name="colorPrimaryDark">@color/pixblue</item>
+        <!-- actionbar color -->
+        <item name="colorPrimary">@color/pixblue</item>
+        <!-- window color -->
+        <!--<item name="android:windowBackground">@color/pixbg</item>-->
+    </style>
+
+    <style name="AppTheme" parent="AppTheme.Base"></style>
+
+</resources>
