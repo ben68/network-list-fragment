@@ -1,3 +1,7 @@
+# network-list-fragment
+
+ListFragment + SwipeRefreshLayout + multi-page-loading
+
 ##安裝 - Installation#
 
 使用 Android Studio 開發， Android 2.2+
@@ -15,5 +19,5 @@ repositories {
   jcenter()
 }
 ```
-
+## 使用 - Usage
 詳細使用範例請參考 sample module
