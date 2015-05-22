@@ -1,11 +1,8 @@
-# network-list-fragment
-==============
-
 ##安裝 - Installation#
 
 使用 Android Studio 開發， Android 2.2+
 
-在 build.gradle 的 dependencies 中加入 pixnet sdk
+在 build.gradle 的 dependencies 中加入
 ```gradle
 dependencies{
   compile 'libs.ben:tabbed-viewpager:1.0.1'
