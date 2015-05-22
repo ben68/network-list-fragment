@@ -9,7 +9,7 @@ ListFragment + SwipeRefreshLayout + multi-page-loading
 在 build.gradle 的 dependencies 中加入
 ```gradle
 dependencies{
-  compile 'libs.ben:tabbed-viewpager:1.0.1'
+  compile 'libs.ben:network-list-fragment:1.0.2'
 }
 ```
 
